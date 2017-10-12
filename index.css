@@ -1,0 +1,20 @@
+body {
+   
+}
+
+div {
+    width: 500px;
+    margin: 100px auto;
+}
+
+div > h2{
+    font-size: 35px;
+}
+
+div > p{
+    font-size: 32px;
+}
+
+button{
+    font-size: 32px;
+}
